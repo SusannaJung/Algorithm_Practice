@@ -51,9 +51,6 @@ while True:
     else:
         continue
 
-   
-
-
 print(count)
 
 
